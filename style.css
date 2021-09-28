@@ -1,0 +1,26 @@
+h1{
+    color:aqua
+}
+
+.Projects{
+    background-color: beige;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:first baseline;
+}
+
+.Games{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content:space-evenly;
+}
